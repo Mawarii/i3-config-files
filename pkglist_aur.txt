@@ -1,0 +1,12 @@
+arc-x-icons-theme
+autotiling
+displaylink
+dracula-cursors-git
+evdi
+rocketchat-client-bin
+schildichat-desktop-bin
+ungoogled-chromium-bin
+v4l2ucp
+velero-bin
+vscodium-bin
+yay
